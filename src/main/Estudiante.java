@@ -5,6 +5,7 @@ public class Estudiante extends Persona{
 	private int cod_estudiante;
 	private float notaFinal;
 	//Primer commit de clase Estudiante
+	//Segundo commit de clase Estudiante
 	
 	public int getCod_estudiante() {
 		return cod_estudiante;
