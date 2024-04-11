@@ -6,6 +6,8 @@ public class Persona {
 	private int edad;
 	
 	//Primer commit de clase Persona
+	//Segundo commit de clase Persona
+
 
 
 	public Persona(String nombre, String apellido, int edad) {
