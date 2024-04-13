@@ -10,7 +10,7 @@ public class Persona {
 	//Tercer commit de clase Persona
 	//Cuarto commit de clase Persona
 	//Quinto commit de clase Persona
-
+	//1er commit rama prueba clases - Persona.java
 
 
 	public Persona(String nombre, String apellido, int edad) {
